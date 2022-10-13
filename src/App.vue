@@ -1,6 +1,5 @@
 <template>
   <div class="all">
-    <h1>test</h1>
     <div class="all-base">
       <div>
         <SidebarComp />
